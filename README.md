@@ -44,9 +44,14 @@ task jacocoTestReport(type: JacocoReport, dependsOn: 'testDebugUnitTest') {
 }
 ```
 ### Jacoco Report Path 
-Generated jacoco report path after successful ```jacocoTestReport``` excecution. 
+Generated jacoco report path after successful ```jacocoTestReport``` execution. 
 ```
 app/build/reports/coverage/debug/index.html
+
+```
+### Gradle command for jacoco report
+```
+./gradlew clean jacocoTestReport
 
 ```
 
