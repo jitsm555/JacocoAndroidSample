@@ -54,9 +54,9 @@ Pre-requisites(Optional)
 Screenshots
 -------------
 
-<img src="AppShortcuts/images/reportPath.png" height="400" alt="Report Path"/> 
-<img src="AppShortcuts/images/classes.png" height="400" alt="Java Classes"/> 
-<img src="AppShortcuts/images/coverage.png" height="400" alt="Coverage"/> 
+<img src="JacocoAndroidSample/images/reportPath.png" height="400" alt="Report Path"/> 
+<img src="JacocoAndroidSample/images/classes.png" height="400" alt="Java Classes"/> 
+<img src="JacocoAndroidSample/images/coverage.png" height="400" alt="Coverage"/> 
 
 
 ## Resources
