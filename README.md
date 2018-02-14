@@ -43,6 +43,13 @@ task jacocoTestReport(type: JacocoReport, dependsOn: 'testDebugUnitTest') {
     executionData = files("${buildDir}/jacoco/testDebugUnitTest.exec")
 }
 ```
+### Jacoco Report Path 
+Generated jacoco report path after successful ```jacocoTestReport``` excecution. 
+```
+app/build/reports/coverage/debug/index.html
+
+```
+
 
 Pre-requisites(Optional)
 --------------
